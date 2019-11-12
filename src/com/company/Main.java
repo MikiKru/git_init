@@ -10,5 +10,6 @@ public class Main {
         System.out.println("Kolejna zmiana");
         System.out.println("Edycja przez współpracownika!!!");
         // konflikt rozwiązany
+        System.out.println("Nowa funkcjonalność projektu");
     }
 }
